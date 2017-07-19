@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Acadgild Content\Code\Session- 14\ACD_AN_Session_14_Code\ACD_AN_Session_14_Code\Contacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Acadgild Content\Code\Session- 14\ACD_AN_Session_14_Code\ACD_AN_Session_14_Code\Contacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_c04026e821f0909712bd8dcb64395e09f38fd2d3\classes.dex" />
+    </item>
+    <item
+        jar="D:\Acadgild Content\Code\Session- 14\ACD_AN_Session_14_Code\ACD_AN_Session_14_Code\Contacts\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="277537379aee408363852490cf790bffe795e1e5">
+        <dex dex="D:\Acadgild Content\Code\Session- 14\ACD_AN_Session_14_Code\ACD_AN_Session_14_Code\Contacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c0aa3bc0cfbf4a20d0ee7ed7bb0d03f43b6ebc09\classes.dex" />
+    </item>
+    <item
+        jar="D:\Acadgild Content\Code\Session- 14\ACD_AN_Session_14_Code\ACD_AN_Session_14_Code\Contacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Acadgild Content\Code\Session- 14\ACD_AN_Session_14_Code\ACD_AN_Session_14_Code\Contacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_fab28d6c940cb4d07240e23a88fb9f3475fece5d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android-Sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Acadgild Content\Code\Session- 14\ACD_AN_Session_14_Code\ACD_AN_Session_14_Code\Contacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_657e0da9ae3e7e9abc5156722c1bade9f0885885\classes.dex" />
+    </item>
+    <item
+        jar="D:\Acadgild Content\Code\Session- 14\ACD_AN_Session_14_Code\ACD_AN_Session_14_Code\Contacts\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6c0a770a860ef70caeeedb38d6adb793aeb151fa">
+        <dex dex="D:\Acadgild Content\Code\Session- 14\ACD_AN_Session_14_Code\ACD_AN_Session_14_Code\Contacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6c12c616643f55309c3426227d85ac8362048f6\classes.dex" />
+    </item>
+
+</items>

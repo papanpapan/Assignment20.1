@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "D:\\Acadgild Content\\Code\\Session- 14\\ACD_AN_Session_14_Code\\ACD_AN_Session_14_Code\\Contacts\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\Acadgild Content\\Code\\Session- 14\\ACD_AN_Session_14_Code\\ACD_AN_Session_14_Code\\Contacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 60,
+                        "endOffset": 73
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 52,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\Acadgild Content\\Code\\Session- 14\\ACD_AN_Session_14_Code\\ACD_AN_Session_14_Code\\Contacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endColumn": 52,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 50,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "D:\\Acadgild Content\\Code\\Session- 14\\ACD_AN_Session_14_Code\\ACD_AN_Session_14_Code\\Contacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 50,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 73,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "D:\\Acadgild Content\\Code\\Session- 14\\ACD_AN_Session_14_Code\\ACD_AN_Session_14_Code\\Contacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 73,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 51,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "D:\\Acadgild Content\\Code\\Session- 14\\ACD_AN_Session_14_Code\\ACD_AN_Session_14_Code\\Contacts\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 52,
+                        "endOffset": 64
+                    }
+                }
+            }
+        ]
+    }
+]

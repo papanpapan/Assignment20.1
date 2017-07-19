@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Acadgild Content\\Code\\Session- 14\\ACD_AN_Session_14_Code\\ACD_AN_Session_14_Code\\Contacts\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "D:\\Acadgild Content\\Code\\Session- 14\\ACD_AN_Session_14_Code\\ACD_AN_Session_14_Code\\Contacts\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 57,
+                        "endOffset": 69
+                    }
+                }
+            }
+        ]
+    }
+]
